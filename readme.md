@@ -31,7 +31,7 @@ Tick ✅ as you complete each problem:
 - [x] Pascal’s Triangle  
 - [ ] Next Permutation  
 - [x] Kadane’s Algorithm  
-- [ ] Sort an array of 0’s 1’s 2’s  
+- [x] Sort an array of 0’s 1’s 2’s  
 - [ ] Stock buy and Sell  
 - [ ] Rotate Matrix  
 - [ ] Merge Overlapping Subintervals  
