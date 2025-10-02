@@ -1,4 +1,4 @@
-# 🚀 Striver's SDE Sheet – DSA Problem Solving
+# 🚀 SDE Sheet – DSA Problem Solving
 
 This repository is dedicated to solving **Striver's SDE Sheet**:  
 👉 [Striver's SDE Sheet (Top Coding Interview Problems)](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
@@ -10,29 +10,9 @@ My goal is to **improve problem-solving skills**, **revise concepts**, and **pre
 ## 📌 About This Repository
 - Contains my solutions to problems from Striver's SDE Sheet.
 - Each solution is well-structured and follows clean coding practices.
-- Problems are categorized by **Topic & Day-wise Progress** as per the sheet.
-- Language used: **[Your Preferred Language, e.g., C++ / Java / Python]**
+- Problems are categorized by **Topic Progress** as per the sheet.
+- Language used: **C++**
 
----
-
-## 🗂️ Repository Structure
-📦 Strivers-SDE-Sheet
-┣ 📂 Arrays
-┣ 📂 Strings
-┣ 📂 LinkedList
-┣ 📂 Trees
-┣ 📂 Graphs
-┣ 📂 DynamicProgramming
-┣ 📂 Greedy
-┣ 📂 BitManipulation
-┣ 📂 Stack_Queue
-┣ 📂 Misc
-
-
-- Each folder contains problems of that topic.
-- File names follow a clear pattern for easy reference (e.g., `01_SetMatrixZeroes.cpp`, `02_PascalTriangle.cpp`).
-
----
 
 ## 🎯 Goals
 - ✅ Strengthen Data Structures & Algorithms concepts.
@@ -48,9 +28,9 @@ Tick ✅ as you complete each problem:
 
 ### ✅ Arrays
 - [ ] Set Matrix Zeroes  
-- [ ] Pascal’s Triangle  
+- [x] Pascal’s Triangle  
 - [ ] Next Permutation  
-- [ ] Kadane’s Algorithm  
+- [x] Kadane’s Algorithm  
 - [ ] Sort an array of 0’s 1’s 2’s  
 - [ ] Stock buy and Sell  
 - [ ] Rotate Matrix  
